@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "date": "Late Ordovician, ~443 Ma",
+    "fact": "Global cooling and sea-level drop triggered the second largest mass extinction; ~85% of marine species disappeared.",
+    "names": "trilobites; graptolites; conodonts",
+    "places": "Morocco; Ohio USA; Zhejiang China",
+    "source": "The Geologic Time Scale 2012"
+  },
+  {
+    "id": 2,
+    "date": "Late Devonian, ~359 Ma",
+    "fact": "Multi-phase prolonged extinction, collapse of coral reef ecosystems, many invertebrates vanished.",
+    "names": "placoderms; ammonites; stromatoporoids",
+    "places": "Canada; Belgium; Guangxi China",
+    "source": "Palaeogeography, Palaeoclimatology, Palaeoecology"
+  },
+  {
+    "id": 3,
+    "date": "Late Permian, ~252 Ma",
+    "fact": "The worst extinction event in Earth history, over 90% marine and 70% terrestrial species died, known as \"The Great Dying\".",
+    "names": "therapsids; trilobites; crinoids",
+    "places": "Russia; South Africa; Changxing Zhejiang China",
+    "source": "Nature 2018"
+  },
+  {
+    "id": 4,
+    "date": "Late Triassic, ~201 Ma",
+    "fact": "Mass volcanic activity caused greenhouse warming, many land and marine species extinct, empty niches allowed dinosaurs to rise.",
+    "names": "cynognathus; conodonts; large amphibians",
+    "places": "UK; USA; Argentina",
+    "source": "Science Advances 2021"
+  },
+  {
+    "id": 5,
+    "date": "Late Cretaceous, ~66 Ma",
+    "fact": "Asteroid impact plus volcanic activity killed non-avian dinosaurs and ammonites; mammals began to diversify.",
+    "names": "Tyrannosaurus rex; Triceratops; ammonites",
+    "places": "Chicxulub Mexico; Montana USA",
+    "source": "Science 2010"
+  },
+  {
+    "id": 6,
+    "date": "Cambrian explosion aftermath, ~510 Ma",
+    "fact": "Late-Cambrian small extinction event, many early trilobite families disappeared, marine faunas restructured.",
+    "names": "olenid trilobites; archaeocyathids",
+    "places": "Utah USA; Guizhou China",
+    "source": "The Geologic Time Scale 2012"
+  },
+  {
+    "id": 7,
+    "date": "Early Ordovician, ~478 Ma",
+    "fact": "Regional-scale marine extinction, reef-building archaeocyathids completely vanished from global oceans.",
+    "names": "archaeocyathid sponges; inarticulate brachiopods",
+    "places": "South Australia; Yunnan China",
+    "source": "Palaeogeography, Palaeoclimatology, Palaeoecology 2019"
+  },
+  {
+    "id": 8,
+    "date": "Middle Permian (Capitanian), ~260 Ma",
+    "fact": "Pre-cursor mass extinction before end-Permian event, severe marine biodiversity loss, many reef organisms died out.",
+    "names": "fusulinid foraminifera; tabulate corals",
+    "places": "Texas USA; Guangxi China",
+    "source": "Nature Communications 2020"
+  },
+  {
+    "id": 9,
+    "date": "Jurassic-Cretaceous boundary, ~145 Ma",
+    "fact": "Minor but widespread extinction, many Jurassic marine reptiles and bivalve species disappeared.",
+    "names": "ichthyosaurs; ammonites; ostreid bivalves",
+    "places": "England; Siberia; Tibet China",
+    "source": "Journal of the Geological Society 2022"
+  },
+  {
+    "id": 10,
+    "date": "Late Eocene, ~34 Ma",
+    "fact": "Grande Coupure major turnover event, dramatic global cooling, many European mammals went extinct.",
+    "names": "palaeotherium; anoplotherium",
+    "places": "Paris Basin France; Wyoming USA",
+    "source": "Science Advances 2017"
+  },
+  {
+    "id": 11,
+    "date": "Late Miocene, ~9.6 Ma",
+    "fact": "Messinian salinity crisis precursor extinction; many shallow-marine species vanished as Mediterranean began to dry.",
+    "names": "marine molluscs; seagrass-dependent faunas",
+    "places": "Mediterranean basin; Spain",
+    "source": "Palaeontology 2021"
+  },
+  {
+    "id": 12,
+    "date": "Pleistocene late-Quaternary, ~11 ka",
+    "fact": "Late Quaternary megafauna extinction; large ice-age mammals disappeared across most continents, mixed climate-human drivers.",
+    "names": "mammoth; woolly rhinoceros; giant ground sloth",
+    "places": "Siberia; North America; Australia",
+    "source": "Quaternary Science Reviews 2019"
+  }
+]
