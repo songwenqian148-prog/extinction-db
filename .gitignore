@@ -1,2 +1,6 @@
 data.db
 __pycache__/
+
+.env
+server.log
+server.err
